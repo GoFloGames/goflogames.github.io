@@ -3,17 +3,9 @@
   "short_name": "GoFlo",
   "icons": [
     {
-      "src": "/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "/logo.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
-    {
-      "src": "/icons/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
   ],
-  "theme_color": "#171717",
-  "background_color": "#171717",
-  "display": "standalone"
 }
